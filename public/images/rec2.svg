@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#0e7490" />
+  
+  <!-- 项目案例网格 -->
+  <rect x="100" y="100" width="180" height="120" rx="10" fill="#06b6d4" />
+  <rect x="310" y="100" width="180" height="120" rx="10" fill="#22d3ee" />
+  <rect x="520" y="100" width="180" height="120" rx="10" fill="#67e8f9" />
+  
+  <rect x="100" y="250" width="180" height="120" rx="10" fill="#67e8f9" />
+  <rect x="310" y="250" width="180" height="120" rx="10" fill="#06b6d4" />
+  <rect x="520" y="250" width="180" height="120" rx="10" fill="#22d3ee" />
+  
+  <!-- 图标 -->
+  <circle cx="190" cy="160" r="30" fill="#0e7490" />
+  <circle cx="400" cy="160" r="30" fill="#0e7490" />
+  <circle cx="610" cy="160" r="30" fill="#0e7490" />
+  
+  <circle cx="190" cy="310" r="30" fill="#0e7490" />
+  <circle cx="400" cy="310" r="30" fill="#0e7490" />
+  <circle cx="610" cy="310" r="30" fill="#0e7490" />
+  
+  <!-- 标题 -->
+  <text x="400" y="400" font-family="Arial" font-size="24" text-anchor="middle" fill="#ecfeff">我的项目案例集</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#0f766e" />
+  <circle cx="400" cy="225" r="150" fill="#14b8a6" />
+  <path d="M400 75 L550 225 L400 375 L250 225 Z" fill="#5eead4" />
+  <circle cx="400" cy="225" r="50" fill="#0f766e" />
+  <text x="400" y="400" font-family="Arial" font-size="24" text-anchor="middle" fill="#ccfbf1">3D产品展示平台</text>
+</svg>

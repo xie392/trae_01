@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#4c1d95" />
+  
+  <!-- 3D场景 -->
+  <rect x="150" y="75" width="500" height="300" rx="15" fill="#6d28d9" />
+  
+  <!-- 3D立方体 -->
+  <polygon points="400,125 500,175 400,225 300,175" fill="#a78bfa" stroke="#c4b5fd" stroke-width="2" />
+  <polygon points="400,125 400,275 300,325 300,175" fill="#8b5cf6" stroke="#c4b5fd" stroke-width="2" />
+  <polygon points="400,125 500,175 500,325 400,275" fill="#7c3aed" stroke="#c4b5fd" stroke-width="2" />
+  
+  <!-- 3D球体 -->
+  <circle cx="400" cy="225" r="50" fill="#a78bfa" />
+  <ellipse cx="400" cy="225" rx="50" ry="20" fill="none" stroke="#c4b5fd" stroke-width="2" />
+  <ellipse cx="400" cy="225" rx="20" ry="50" fill="none" stroke="#c4b5fd" stroke-width="2" />
+  
+  <!-- 代码片段 -->
+  <rect x="200" y="300" width="400" height="50" rx="5" fill="#ede9fe" />
+  <text x="220" y="330" font-family="monospace" font-size="14" fill="#4c1d95">scene.add(new THREE.Mesh(geometry, material));</text>
+  
+  <!-- 标题 -->
+  <text x="400" y="400" font-family="Arial" font-size="24" text-anchor="middle" fill="#ede9fe">Three.js 3D交互实现指南</text>
+</svg>

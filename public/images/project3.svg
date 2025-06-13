@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#7e22ce" />
+  <rect x="100" y="75" width="600" height="300" rx="15" fill="#a855f7" />
+  
+  <!-- 图表元素 -->
+  <rect x="150" y="125" width="500" height="200" rx="5" fill="#f5f3ff" />
+  
+  <!-- 柱状图 -->
+  <rect x="200" y="250" width="40" height="75" fill="#7e22ce" />
+  <rect x="260" y="200" width="40" height="125" fill="#9333ea" />
+  <rect x="320" y="175" width="40" height="150" fill="#a855f7" />
+  <rect x="380" y="225" width="40" height="100" fill="#c084fc" />
+  <rect x="440" y="150" width="40" height="175" fill="#d8b4fe" />
+  <rect x="500" y="275" width="40" height="50" fill="#e9d5ff" />
+  
+  <!-- 折线 -->
+  <polyline points="220,200 280,175 340,225 400,150 460,190 520,160" 
+            stroke="#7e22ce" stroke-width="3" fill="none" />
+  
+  <!-- 标题 -->
+  <text x="400" y="350" font-family="Arial" font-size="24" text-anchor="middle" fill="#f5f3ff">数据可视化仪表盘</text>
+</svg>
