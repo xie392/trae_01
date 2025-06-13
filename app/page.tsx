@@ -56,10 +56,10 @@ export default function Home() {
         <Timeline items={timelineItems} />
 
         {/* 技能评估游戏 */}
-        <SkillGame challenges={codingChallenges} />
+        <SkillGame challenges={codingChallenges as any} />
 
         {/* 个性化推荐 */}
-        <Recommendations items={recommendations} />
+        <Recommendations items={recommendations as any} />
       </SkeletonLoader>
     </div>
   );
